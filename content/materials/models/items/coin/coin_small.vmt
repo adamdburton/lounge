@@ -1,0 +1,15 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/items/coin/coin_small"
+	
+	"$bumpmap"  "models/items/coin/normal_small"
+	$lightwarptexture "models/items/coin/lightwrap"
+	$phong 1
+ 
+	$phongexponent			120
+	$phongboost				1.5
+	$phongfresnelranges		"[0 0.5 1]"
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          6.4		
+}

@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Lounge"
+	"maps"		"^esl_"
+	"menusystem"	"1"
+}
